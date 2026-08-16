@@ -27,7 +27,7 @@ HoldRodCastDuration := 1000
 WaitForBobberDelay := 1000
 
 ; This is used for AutoCamera only for now
-NavigationKey := "\"
+NavigationKey := "#"
 
 ;======    Shake Settings    =====================================================================;
 
